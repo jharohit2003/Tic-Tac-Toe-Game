@@ -21,8 +21,8 @@ Play against a friend and enjoy the classic 3x3 board game right in your browser
 ---
 
 ## 📷 Screenshots
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0867450b-645e-4a3f-9ac9-e21c170b2726" />
-<img width="696" height="847" alt="image" src="https://github.com/user-attachments/assets/9240cb14-cb1a-4e9d-a7bd-208db11fdd94" />
+<img width="1906" height="916" alt="image" src="https://github.com/user-attachments/assets/9f34007d-5aab-4dec-b9d8-077769b859d8" />
+<img width="1867" height="913" alt="image" src="https://github.com/user-attachments/assets/caf9c2c0-13d1-43a9-be5c-7e925f678441" />
 
 
 ---
